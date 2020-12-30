@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:DTC-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -207,18 +208,6 @@ Wire Wire Line
 Wire Wire Line
 	6450 2050 6450 1900
 Wire Wire Line
-	6850 2500 7250 2500
-Wire Wire Line
-	7250 2500 7250 2300
-Wire Wire Line
-	7250 2300 7450 2300
-Wire Wire Line
-	6950 1900 7200 1900
-Wire Wire Line
-	7200 1900 7200 2200
-Wire Wire Line
-	7200 2200 7450 2200
-Wire Wire Line
 	7450 2100 7450 1850
 Wire Wire Line
 	7450 1850 6750 1850
@@ -252,9 +241,7 @@ Wire Wire Line
 	5500 2850 5500 4350
 Connection ~ 5500 4350
 Wire Wire Line
-	3800 4700 3900 4700
-Wire Wire Line
-	3900 4700 3900 4300
+	3800 4600 3900 4600
 Wire Wire Line
 	3900 4300 3350 4300
 Wire Wire Line
@@ -288,7 +275,7 @@ Wire Wire Line
 Wire Wire Line
 	6700 3950 6700 4100
 Wire Wire Line
-	5250 3150 6100 3150
+	5250 3150 5400 3150
 Wire Wire Line
 	6100 3150 6100 2750
 Wire Wire Line
@@ -401,4 +388,51 @@ Wire Wire Line
 	5400 4000 5400 3850
 Wire Wire Line
 	5400 3850 5250 3850
+Wire Wire Line
+	5400 3850 5400 3150
+Connection ~ 5400 3850
+Connection ~ 5400 3150
+Wire Wire Line
+	5400 3150 6100 3150
+Wire Wire Line
+	3650 3850 5250 3850
+Connection ~ 3650 3850
+Connection ~ 5250 3850
+Wire Wire Line
+	7450 2300 7300 2300
+Wire Wire Line
+	7300 2300 7300 1900
+Wire Wire Line
+	7300 1900 6950 1900
+Wire Wire Line
+	6850 2500 7400 2500
+Wire Wire Line
+	7400 2500 7400 2200
+Wire Wire Line
+	7400 2200 7450 2200
+$Comp
+L Device:CP C1
+U 1 1 5CD8E3AB
+P 4350 4600
+F 0 "C1" H 4468 4646 50  0000 L CNN
+F 1 "100uF" H 4468 4555 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:CP_Radial_D8.0mm_P3.80mm" H 4388 4450 50  0001 C CNN
+F 3 "~" H 4350 4600 50  0001 C CNN
+	1    4350 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 4450 4350 4450
+Connection ~ 3900 4450
+Wire Wire Line
+	3900 4450 3900 4300
+Wire Wire Line
+	4000 4800 4350 4800
+Wire Wire Line
+	4350 4800 4350 4750
+Wire Wire Line
+	3900 4600 3900 4450
+Wire Wire Line
+	3800 4700 3800 4800
+Connection ~ 3800 4800
 $EndSCHEMATC
