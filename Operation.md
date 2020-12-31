@@ -26,6 +26,7 @@ As I just mentioned, you will need to first obtain the IP address and Chip ID of
 
 ![Web Interface](/Images/WebInterface.PNG)
 
+Simply enter the required temperature differential, enter the value of teh ChipId as the password and click save.
 That's it. It's fairly simple and functional.
 
 ## A word of warning
