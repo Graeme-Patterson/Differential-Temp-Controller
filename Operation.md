@@ -31,3 +31,8 @@ That's it. It's fairly simple and functional.
 ## A word of warning
 
 If you choose to power the external fan from 110/240V via the onboard relay, **you do so at your own risk.** While the relay is rated for this voltage and the PCB traces have adequate separation from the other traces, this voltage is dangerous and should only be attempted by suitably qualified/experienced people.
+
+- [DTC Overview](/README.md)
+- [How to make one](/HowToMake.md)
+- [Operation instructions](/Operation.md)
+- [Connecting it up](/connecting.md)

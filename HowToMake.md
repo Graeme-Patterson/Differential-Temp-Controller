@@ -19,13 +19,19 @@ Parts List
 - 1 x 3 way 0.2" pitch screw terminal
 - 1 x PCB (you'll need to have this manufactured. I used JLCPCB - 5 boards for $2)
 
-As I mentioned above, I used JLCPCB (jlcpcb.com) to have my PCB's made. They provided me with great service at an awesome $2 for 5 pcbs - double sided with solder mask and silk screened in your choice of colour.
+As I mentioned above, I used JLCPCB (https://jlcpcb.com) to have my PCB's made. They provided me with great service at an awesome price, $2 for 5 pcbs - double sided with solder mask and silk screened in your choice of colour.
 
-Upload the DTCWiFiDisplay.ino sketch to your ESP8266
+Upload the DTCWiFiDisplay.ino sketch to your ESP8266.
+
 Assemble the PCB as shown in [PCB Component Placement](/PCB/DTC_Component_Placement.pdf)
 
 ## First Run
 
-On first run, the ESP device will not now about your WiFi network and will go into AP mode. Use you phone/laptop etc to connect to the ESP device AP and provide your WiFi network details. Restart tye device and it should be connected to your WiFi.
+On first run, the ESP device will not know about your WiFi network and will go into AP mode. Use you phone/laptop etc to connect to the ESP device AP and select/provide your WiFi network details. Restart the device and it should now be connected to your WiFi.
 
 After you have your DTC on your WiFi network, take a look at [Operation instructions](/Operation.md) to see how to use it.
+
+- [DTC Overview](/README.md)
+- [How to make one](/HowToMake.md)
+- [Operation instructions](/Operation.md)
+- [Connecting it up](/connecting.md)
