@@ -10,4 +10,4 @@ The final result uses a 2.8" ILI9341 TFT SPI display sourced from eBay (China) a
 ![DTC Pic](/Images/DTCWebSmall.png)
 ![DTC Interface](/Images/DTCMainScreenWebSmall.png)
 
-[How to make one](HowToMake.md)
+[How to make one](/HowToMake.md)
