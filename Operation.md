@@ -16,7 +16,7 @@ The Set differential temperature screen provides you the ability to adjust the t
 
 ![Set Differential Temperature Screen](/Images/DTCChangeTemp.png)
 
-The last screen is the Information screen. This screen provides you with easily accessible details allowing you to connect to the web interface from a browser and shows the chip Id which is used as a basic password allowing a user to configure the temperature differential from the browser. To connect to the web interface from a browser, simply type "http://<IP Address>" into the address bar. 
+The last screen is the Information screen. This screen provides you with easily accessible details allowing you to connect to the web interface from a browser and shows the chip Id which is used as a basic password allowing a user to configure the temperature differential from the browser. To connect to the web interface from a browser, simply type "http:///<IP Address>" into the address bar. 
 
 ![Information Screen](/Images/DTCInfoScreen.png)
 
