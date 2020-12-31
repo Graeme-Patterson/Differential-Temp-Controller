@@ -7,5 +7,5 @@ The design was to heat air in long black platsic tubes mounted in a glass fronte
 
 The final result uses a 2.8" ILI9341 TFT SPI display sourced from eBay (China) and an ESP8266/NodeMCU/ESP12-E device mounted on a custom PCB using a simple relay output to control a fan. Power is via a DC barrel connector (with ideas that this could be via Solar). The temperature sensors are low cost waterproof 10k NTC Thermistors, again sourced from eBay.
 
-![DTC Pic](/Images/DTCWeb.png)
-![DTC Interface](/Images/DTCMainScreenWeb.png)
+![DTC Pic](/Images/DTCWebSmall.png)
+![DTC Interface](/Images/DTCMainScreenWebSmall.png)
