@@ -24,7 +24,7 @@ As I mentioned above, I used JLCPCB (jlcpcb.com) to have my PCB's made. They pro
 Upload the DTCWiFiDisplay.ino sketch to your ESP8266
 Assemble the PCB as shown in [PCB Component Placement](/PCB/DTC_Component_Placement.pdf)
 
-### First Run
+## First Run
 
 On first run, the ESP device will not now about your WiFi network and will go into AP mode. Use you phone/laptop etc to connect to the ESP device AP and provide your WiFi network details. Restart tye device and it should be connected to your WiFi.
 

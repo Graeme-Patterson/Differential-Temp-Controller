@@ -1,4 +1,4 @@
-### Operation
+# Operation
 
 The DTC has only 3 screens availavle on the touch screen.
 
@@ -20,7 +20,7 @@ The last screen is the Information screen. This screen provides you with easily 
 
 ![Information Screen](/images/DTCInfoScreen.png)
 
-### Using the web interface
+## Using the web interface
 
 As I just mentioned, you will need to first obtain the IP address and Chip ID of the ESP device first and navigate to "http://\<IP Address>". Here you will be presented with a "functional" display allowing you to set the differential temperature of the controller only. 
 
@@ -28,6 +28,6 @@ As I just mentioned, you will need to first obtain the IP address and Chip ID of
 
 That's it. It's fairly simple and functional.
 
-## A word of warning.
+## A word of warning
 
 If you choose to power the external fan from 110/240V via the onboard relay, **you do so at your own risk.** While the relay is rated for this voltage and the PCB traces have adequate separation from the other traces, this voltage is dangerous and should only be attempted by suitably qualified/experienced people.
