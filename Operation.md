@@ -6,7 +6,7 @@ The DTC has only 3 screens availavle on the touch screen.
 2. Set differential temp screen.
 3. Information screen
 
-When you are first using the DTC, you wil need to start with the touch screen.
+When you are first using the DTC, you will need to start with the touch screen.
 
 The main screen provides details of the temperatures of the two probes, the configured temperature difference as well as the current output status. In addition, you can access the Set screen and the Information screen.
 
