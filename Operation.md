@@ -12,17 +12,17 @@ The main screen provides details of the temperatures of the two probes, the conf
 
 ![Main screen](/Images/DTCMainScreen.png)
 
-The Set differential temperature screen provides you the ability to adjust the temperature difference between the probes that will turn the output on. It is a simple up/down button operation with teh "Save" button saving the value to memory. As expected the "Home" button will take you back to the main screen.
+The Set differential temperature screen provides you the ability to adjust the temperature difference between the probes that will turn the output on. It is a simple up/down button operation with the "Save" button saving the value to memory. As expected the "Home" button will take you back to the main screen.
 
 ![Set Differential Temperature Screen](/Images/DTCChangeTemp.png)
 
-The last screen is the Information screen. This screen provides you with easily accessible details allowing you to connect to the web interface from a browser and shows the chip Id which is used as a basic password allowing a user to configure the temperature differential from the browser. To connect to the web interface from a browser, simply type "http://\<IP Address>" into the address bar. 
+The last screen is the Information screen. This screen provides you with easily accessible details allowing you to connect to the web interface from a browser and shows the chip Id which is used as a basic password allowing a user to configure the temperature differential from the browser. To connect to the web interface from a browser, simply type "http://<IP Address>" into the address bar. 
 
 ![Information Screen](/Images/DTCInfoScreen.png)
 
 ## Using the web interface
 
-As I just mentioned, you will need to first obtain the IP address and Chip ID of the ESP device first and navigate to "http://\<IP Address>". Here you will be presented with a "functional" display allowing you to set the differential temperature of the controller only. 
+As was just mentioned, you will need to first obtain the IP address and Chip ID of the ESP device first and navigate to "http://<IP Address>". Here you will be presented with a "functional" display allowing you to set the differential temperature of the controller only. 
 
 ![Web Interface](/Images/WebInterface.PNG)
 
