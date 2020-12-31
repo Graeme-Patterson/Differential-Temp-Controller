@@ -24,7 +24,7 @@ The last screen is the Information screen. This screen provides you with easily 
 
 As I just mentioned, you will need to first obtain the IP address and Chip ID of the ESP device first and navigate to "http://\<IP Address>". Here you will be presented with a "functional" display allowing you to set the differential temperature of the controller only. 
 
-![Web Interface](/Images/WebInterface.png)
+![Web Interface](/Images/WebInterface.PNG)
 
 That's it. It's fairly simple and functional.
 
